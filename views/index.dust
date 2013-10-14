@@ -1,0 +1,32 @@
+{>layout/}
+{<content}
+    <div id="zone">
+        <div class="wrap-turn">
+            <h1 id='stats'>
+                <span id="turn"></span>
+            </h1>
+        </div>
+        <div class="wrap-players">
+            <h1 id='p1'>Waiting...</h1>
+            <h1 id='p2'>Waiting...</h1>
+        </div>
+    </div>
+    <p>&nbsp;</p>
+    <table>
+        <tr>
+            <td id='0-0'></td>
+            <td id='0-1'></td>
+            <td id='0-2'></td>
+        </tr>
+        <tr>
+            <td id='1-0'></td>
+            <td id='1-1'></td>
+            <td id='1-2'></td>
+        </tr>
+        <tr>
+            <td id='2-0'></td>
+            <td id='2-1'></td>
+            <td id='2-2'></td>
+        </tr>
+    </table>
+{/content}
