@@ -8,6 +8,6 @@ git clone https://github.com/georg199041/tic-tac-toe-socketio.git
 run it
 node app or node app.js
 
-Go to <a href="http://localhost:3000">http://localhost:3000</a>
+to test go to <a href="http://localhost:3000">http://localhost:3000</a>
 
-suggest your friend to play)
+Make the server available for everybody and suggest your friend to play)
